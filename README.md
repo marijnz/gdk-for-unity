@@ -56,3 +56,5 @@ Create an issue [in this repository](https://github.com/spatialos/UnityGDK/issue
 * Your access to and use of the Unity Engine is governed by the Unity Engine End User License Agreement. Please ensure that you have agreed to those terms before you access or use the Unity Engine.
 
 &copy; 2019 Improbable
+
+SO MANY CHANGES
